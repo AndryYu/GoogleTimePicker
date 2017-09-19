@@ -26,6 +26,8 @@ import android.util.Log;
 import android.view.View;
 
 
+import com.andryyu.time.R;
+
 import java.text.DateFormatSymbols;
 
 

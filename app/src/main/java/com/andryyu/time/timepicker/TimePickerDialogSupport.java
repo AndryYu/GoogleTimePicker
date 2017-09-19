@@ -35,7 +35,8 @@ import android.view.Window;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.wistronits.wh.annbot.R;
+
+import com.andryyu.time.R;
 
 import java.text.DateFormatSymbols;
 import java.util.ArrayList;

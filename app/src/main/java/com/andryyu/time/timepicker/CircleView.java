@@ -23,7 +23,8 @@ import android.graphics.Paint;
 import android.util.Log;
 import android.view.View;
 
-import com.wistronits.wh.annbot.R;
+import com.andryyu.time.R;
+
 
 /**
  * Draws a simple white circle on which the numbers will be drawn.

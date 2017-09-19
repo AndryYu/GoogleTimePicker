@@ -14,7 +14,7 @@ import android.graphics.Typeface;
 import android.util.Log;
 import android.view.View;
 
-import com.wistronits.wh.annbot.R;
+import com.andryyu.time.R;
 
 
 /**

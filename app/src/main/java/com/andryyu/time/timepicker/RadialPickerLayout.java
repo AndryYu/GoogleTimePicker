@@ -41,7 +41,7 @@ import android.view.accessibility.AccessibilityManager;
 import android.view.accessibility.AccessibilityNodeInfo;
 import android.widget.FrameLayout;
 
-import com.wistronits.wh.annbot.R;
+import com.andryyu.time.R;
 
 
 public class RadialPickerLayout extends FrameLayout implements OnTouchListener {

@@ -12,7 +12,8 @@ import android.graphics.Paint;
 import android.util.Log;
 import android.view.View;
 
-import com.wistronits.wh.annbot.R;
+import com.andryyu.time.R;
+
 
 /**
  * View to show what number is selected. This will draw a blue circle over the number, with a blue
